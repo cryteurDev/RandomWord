@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Random word</string>
+    <string name = "first">General words. (400)</string>
+    <string name = "second">Things - picturable words (200)</string>
+    <string name = "third">Operations (100)</string>
+    <string name = "four">Qualities - descriptive words (100)</string>
+    <string name = "five">Qualities - opposites (50)</string>
+
+    <string name="get_random">Get random</string>
+    <string name="get_next">Get next</string>
+    <string name="translate">Translate</string>
+</resources>
